@@ -18,8 +18,7 @@
 
 <br/>
 
-> &nbsp;  📊 **[Download Presentation](assets/AWS_CSPM_Presentation.pptx)[AWS_CSPM_Presentation.pptx](https://github.com/user-attachments/files/29249651/AWS_CSPM_Presentation.pptx)
-**
+> &nbsp;  📊 **[Download Presentation](assets/AWS_CSPM_Presentation.pptx)**[AWS_CSPM_Presentation.pptx](https://github.com/user-attachments/files/29249651/AWS_CSPM_Presentation.pptx)
 
 </div>
 
