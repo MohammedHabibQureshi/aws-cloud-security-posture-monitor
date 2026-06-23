@@ -18,7 +18,8 @@
 
 <br/>
 
-> 🎬 **[Watch Full Demo Video](https://youtube.com/YOUR_LINK)**  &nbsp;|&nbsp;  📊 **[Download Presentation](assets/AWS_CSPM_Presentation.pptx)**
+> &nbsp;  📊 **[Download Presentation](assets/AWS_CSPM_Presentation.pptx)[AWS_CSPM_Presentation.pptx](https://github.com/user-attachments/files/29249651/AWS_CSPM_Presentation.pptx)
+**
 
 </div>
 
@@ -343,6 +344,8 @@ Security Score = max(0, 100 − total deductions)
 ## 🎬 Demo Video
 
 [![AWS CSPM Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
 
 > **Click the thumbnail to watch the full demo.**
 > Covers: live scan execution · Slack alert firing · CloudWatch dashboard · before/after remediation results
