@@ -1,3 +1,6 @@
+<img width="1888" height="892" alt="02_slack_alert png" src="https://github.com/user-attachments/assets/40a30deb-529a-4ebc-a095-b35a12c56948" />
+<img width="1905" height="857" alt="01_CloudWatch png" src="https://github.com/user-attachments/assets/54a6c73b-f154-4dfa-9040-597787f070d6" />
+<img width="1905" height="857" alt="01_CloudWatch png" src="https://github.com/user-attachments/assets/6e39a0f7-74eb-4709-9de6-098508d99e17" />
 <div align="center">
 
 # 🛡️ AWS Cloud Security Posture Monitor (CSPM)
@@ -319,7 +322,8 @@ Security Score = max(0, 100 − total deductions)
 > Add your screenshots to the `assets/screenshots/` folder and they will render here automatically.
 
 ### CloudWatch Dashboard
-![CloudWatch Dashboard](assets/screenshots/01_CloudWatch.png)
+![CloudWatch Dashboard](assets/screenshots/01_CloudWatch.png)<img width="1905" height="857" alt="01_CloudWatch png" src="https://github.com/user-attachments/assets/8d80e8cf-fd15-4de4-9843-b79c62dacbbf" />
+
 
 ### Real-Time Slack Alert
 ![Slack Alert](assets/screenshots/02_slack_alert.png)
