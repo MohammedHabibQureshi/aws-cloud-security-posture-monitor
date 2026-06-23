@@ -319,16 +319,13 @@ Security Score = max(0, 100 − total deductions)
 > Add your screenshots to the `assets/screenshots/` folder and they will render here automatically.
 
 ### CloudWatch Dashboard
-![CloudWatch Dashboard](assets/screenshots/01_cloudwatch_dashboard.png)
+![CloudWatch Dashboard](assets/screenshots/AWS-csmp- ss-1.png)
 
 ### Real-Time Slack Alert
 ![Slack Alert](assets/screenshots/02_slack_alert.png)
 
 ### DynamoDB Findings Table
 ![DynamoDB Findings](assets/screenshots/03_dynamodb_findings.png)
-
-### Lambda Execution Logs
-![Lambda Logs](assets/screenshots/04_lambda_logs.png)
 
 ### Before vs After Remediation
 
