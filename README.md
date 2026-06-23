@@ -651,9 +651,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-**Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/md-habib-qureshi)
-- 🐙 GitHub: [github.com/YOUR_USERNAME](https://github.com/MohammedHabibQureshi)
+**Mohammed Habib Qureshi**
+- 🔗 LinkedIn: [linkedin.com/in/md-habib-qureshi](https://linkedin.com/in/md-habib-qureshi)
+- 🐙 GitHub: [github.com/MohammedHabibQureshi](https://github.com/MohammedHabibQureshi)
 - 📧 Email: mdhabib.qureshi786@gmail.com
 
 ---
