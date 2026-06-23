@@ -319,7 +319,7 @@ Security Score = max(0, 100 − total deductions)
 > Add your screenshots to the `assets/screenshots/` folder and they will render here automatically.
 
 ### CloudWatch Dashboard
-![CloudWatch Dashboard](assets/screenshots/AWS-csmp- ss-1.png)
+![CloudWatch Dashboard](assets/screenshots/01_CloudWatch.png)
 
 ### Real-Time Slack Alert
 ![Slack Alert](assets/screenshots/02_slack_alert.png)
@@ -331,7 +331,7 @@ Security Score = max(0, 100 − total deductions)
 
 | Before Remediation | After Remediation |
 |---|---|
-| ![Before](assets/screenshots/05_before_scan.png) | ![After](assets/screenshots/06_after_scan.png) |
+| ![Before](assets/screenshots/04_before_scan.png) | ![After](assets/screenshots/05_after_scan.png) |
 
 ---
 
