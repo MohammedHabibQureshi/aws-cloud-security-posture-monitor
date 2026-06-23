@@ -340,9 +340,9 @@ Security Score = max(0, 100 − total deductions)
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Execution Video
 
-[![AWS CSPM Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![AWS CSPM Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 
