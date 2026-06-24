@@ -320,23 +320,23 @@ Security Score = max(0, 100 − total deductions)
 > Add your screenshots to the `assets/screenshots/` folder and they will render here automatically.
 
 ### CloudWatch Dashboard
-![CloudWatch Dashboard](assets/screenshots/01_CloudWatch.png)<img width="1905" height="857" alt="01_CloudWatch png" src="https://github.com/user-attachments/assets/8d80e8cf-fd15-4de4-9843-b79c62dacbbf" />
+<img width="1905" height="857" alt="01_CloudWatch png" src="https://github.com/user-attachments/assets/8d80e8cf-fd15-4de4-9843-b79c62dacbbf" />
 
 
 ### Real-Time Slack Alert
-![Slack Alert](assets/screenshots/02_slack_alert.png)<img width="1888" height="892" alt="02_slack_alert png" src="https://github.com/user-attachments/assets/fcf139f3-3044-4c76-9ed9-7f9bbd9d8f92" />
+<img width="1888" height="892" alt="02_slack_alert png" src="https://github.com/user-attachments/assets/fcf139f3-3044-4c76-9ed9-7f9bbd9d8f92" />
 
 
 ### DynamoDB Findings Table
-![DynamoDB Findings](assets/screenshots/03_dynamodb_findings.png)<img width="1693" height="812" alt="03_dynamodb_findings png" src="https://github.com/user-attachments/assets/c3f41cbe-293b-4558-abd1-5338f7b9bab6" />
+<img width="1693" height="812" alt="03_dynamodb_findings png" src="https://github.com/user-attachments/assets/c3f41cbe-293b-4558-abd1-5338f7b9bab6" />
 
 
 ### Before vs After Remediation
 
 | Before Remediation | After Remediation |
 |---|---|
-| ![Before](assets/screenshots/04_before_scan.png)<img width="1901" height="955" alt="04_before_scan png" src="https://github.com/user-attachments/assets/053f457a-eb86-4a60-a141-aa2ab7836eb5" />
- | ![After](assets/screenshots/05_after_scan.png)<img width="1820" height="951" alt="05_after_scan png" src="https://github.com/user-attachments/assets/3ac94319-dcc0-4943-9fd7-f52a7b9509a2" /> |
+| <img width="1901" height="955" alt="04_before_scan png" src="https://github.com/user-attachments/assets/053f457a-eb86-4a60-a141-aa2ab7836eb5" />
+ | <img width="1820" height="951" alt="05_after_scan png" src="https://github.com/user-attachments/assets/3ac94319-dcc0-4943-9fd7-f52a7b9509a2" /> |
 
 ---
 
