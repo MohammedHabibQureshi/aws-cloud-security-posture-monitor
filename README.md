@@ -346,6 +346,8 @@ Security Score = max(0, 100 − total deductions)
 
 
 
+
+
 > **Click the thumbnail to watch the full demo.**
 > Covers: live scan execution · Slack alert firing · CloudWatch dashboard · before/after remediation results
 
